@@ -1,0 +1,72 @@
+.top{
+    background-color: black;
+    height: 130px;
+}
+
+.line-remove{
+    text-decoration: none;
+    color:  white;
+    font-size: 20px;
+}
+
+.line-remove:hover {
+    color: white;
+}
+
+.flexbox{
+    flex: content;
+    justify-content:end;
+    position: absolute;
+    right: 10%;
+    top: 50px;
+}
+
+.flexbox2{
+    flex: content;
+    justify-content:start;
+    position: absolute;
+    left: 10%;
+    top: 27px;
+}
+
+.권한{
+    display: flex;
+}
+
+
+.middle-color{
+    color: white;
+    background-color: #AD6E6E;
+}
+
+
+.middle-flex{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-text{
+    padding-bottom: 150px
+}
+
+.middle-text2{
+    padding-top: 150px;
+    padding-bottom: 10px
+}
+
+.middle-text3{
+    padding-bottom: 150px
+}
+
+.padding{
+    padding-top: 300px;
+}
+
+
+.bottom{
+    background-color: black;
+    height: 500px;
+}
